@@ -1,0 +1,6 @@
+# Don't upload .env files to git.
+# เพราะมันสำคัญ
+.env
+
+# ในใหญ่และเราสามารถ npm i ติดตั้งแพ็คเก็จได้
+node_modules/
